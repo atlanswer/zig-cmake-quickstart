@@ -1,0 +1,10 @@
+# Build files
+build/
+# Runtime executables
+bin/
+# Clangd
+.cache/
+# Zig
+zig-out/
+.zig-cache/
+
